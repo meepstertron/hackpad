@@ -1,5 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref"
-1;"D7,D2,D5,D3,D8,D1,D10,D6,D4,D12,D11,D9";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";12;"SK6812MINI";;;
-2;"SW3,SW4,SW1,SW2";"SW_Cherry_MX_1.00u_PCB";4;"SW_Push";;;
-3;"VR1";"Potentiometer_Bourns_PTA6043_Single_Slide";1;"PTA6043-2015CPB103";;;
-4;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
